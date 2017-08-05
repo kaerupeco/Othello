@@ -9,7 +9,7 @@ public class Board {
         private final static int ZIBUN = 1;
         private final static int AITE = 2;
 
-        //コンストラクタで盤面を空で初期化
+        //コンストラクタで盤面を空で初期k
         public Board(){
             for(int i = 0; i<8; i++){
                 for(int j = 0; i<8; i++){

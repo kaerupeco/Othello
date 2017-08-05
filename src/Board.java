@@ -28,7 +28,7 @@ public class Board {
         return  false;
     }
 
-    //指定した位置に相手の石があるか調べる
+    //指定した位置に相手の石があるか調べるff
     public boolean isAite(){
         return false;
     }
